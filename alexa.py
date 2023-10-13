@@ -147,6 +147,7 @@ if __name__ == "__main__":
                 response = chat_with_ai(user_input, max_tokens=1000)
             except:
                 print("¡La api key proporcionada no es valida, prueba con otra!")
+                time.sleep(2)
                 exit()
 
             print("GPT-Darius: " + response)

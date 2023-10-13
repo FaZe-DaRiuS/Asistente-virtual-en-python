@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FaZe-DaRiuS
+- 👀 I'm interested in programming
+- 🌱 I’m currently learning C# and Js

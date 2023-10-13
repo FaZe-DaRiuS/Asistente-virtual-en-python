@@ -5,3 +5,4 @@ echo Todas las bibliotecas se han instalado correctamente.
 pause
 
 python -m alexa
+pause

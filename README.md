@@ -1,1 +1,1 @@
-Programado por FaZe_DaRiuS, Programa con derechos de author.
+Unete para mas archivos 😊😉: https://discord.gg/RXqgdGB93V

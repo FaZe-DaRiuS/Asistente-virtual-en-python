@@ -143,7 +143,11 @@ if __name__ == "__main__":
             print("Claro que pueda borrar el chat/conversacion.")
             speak_response("Claro que pueda borrar el chat")
         else:
-            response = chat_with_ai(user_input, max_tokens=1000)
+            try:
+                response = chat_with_ai(user_input, max_tokens=1000)
+            except:
+                print("¡La api key proporcionada no es valida, prueba con otra!")
+                exit()
 
             print("GPT-Darius: " + response)
 

@@ -1,0 +1,9 @@
+openai
+pyttsx3
+datetime
+time
+webbrowser
+os
+colorama
+wikipedia
+fake_useragent
